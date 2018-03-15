@@ -37,3 +37,9 @@ h1 {
 img {
 	border: 5px solid rgb(152,173,166);
 }
+
+h2 {
+	font-family: 'Libre Baskerville', serif;
+	color: rgb(152,173,166);
+	font-size: 1em;
+}
